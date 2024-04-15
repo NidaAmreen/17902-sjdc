@@ -1,0 +1,33 @@
+*{
+    background-color: black;
+    color: #84c754;
+    font-family:'Courier New', Courier, monospace
+}
+ul li a {
+    text-decoration: none;
+}
+
+ .div1{
+    color: white;
+    border: 2px solid white;
+    padding: 10px 10px;
+}
+h2  {
+    color: white;
+    text-transform: capitalize;
+
+}
+.div2{
+    border: 2px solid white;
+    padding: 10px;
+    color: white;
+}
+ pre a {
+           color: white;
+}
+ p a {
+    color: white;
+ }
+  div p {
+    color: white;
+  }

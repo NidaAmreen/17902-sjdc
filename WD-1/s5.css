@@ -1,0 +1,12 @@
+h1, h2 {
+    color: #4CAF50;
+}
+div ul,li,a {
+    display: inline;
+    text-decoration: none;
+    padding: 10px;
+    background-color: #4CAF50;
+}
+ul {
+    padding: 1cqmax;
+}

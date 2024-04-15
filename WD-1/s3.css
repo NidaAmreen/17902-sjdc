@@ -1,0 +1,29 @@
+
+body {
+    font-family: Arial;
+    background-color: #d14836;
+    line-height: 20px;
+}
+
+.bol,a {
+    color: #d14836;
+}
+.div2 {
+    background-color: #e1b6b0;
+    padding: 20px;
+    color:#d14836 ;
+}
+.div1 {
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+.hii li,a {
+    list-style-type: none;
+    text-align: right;
+    text-decoration: none;
+     padding: 15px;
+     border: 12px; 
+     border-color: black;
+     
+}
